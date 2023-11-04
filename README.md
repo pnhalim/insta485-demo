@@ -1,2 +1,2 @@
 # insta485-demo
-A clone of instagram
+See the final product here: https://drive.google.com/file/d/1VZbk8ts9RC6ejOkYBgmh2oEmD3XMEDj2/view?usp=sharing 
